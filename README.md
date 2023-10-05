@@ -12,13 +12,13 @@ Autor: **Jordão Flores Finamor**
 
 ## Orientações
 
-O intuito deste projeto é compartilhar minha pesquisa exploratória realizada como trabalho final do curso de especialização em Business Analytics pela Universidade Federal do Rio Grande do Sul, sob orientação da Dra. Fernanda Maria Müller [Lattes](http://lattes.cnpq.br/3226110093009785)
+O intuito deste projeto é compartilhar minha pesquisa exploratória realizada como trabalho final do curso de especialização em Business Analytics pela Universidade Federal do Rio Grande do Sul, sob orientação da Dra. Fernanda Maria Müller. [Lattes](http://lattes.cnpq.br/3226110093009785)
 
 Este estudo teve como objetivo realizar uma pesquisa exploratória utilizando os dados agregados de operações de crédito divulgados mensalmente pelo Banco Central do Brasil através do Sistema de Informações de Créditos (SCR). [Base de dados](https://dadosabertos.bcb.gov.br/dataset/scr_data)
 
 O trabalho encontra-se disponível no arquivo TCC_Jordao.pdf
 
-O código em R utilizado está disponível no arquivo TCC.Rmd
+O código em R utilizado está disponível no arquivo TCC.R
 
 Foi incluso também meu knit feito pelo Rstudio, disponível no arquivo TCC.html
 
