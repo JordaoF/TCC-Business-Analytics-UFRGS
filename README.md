@@ -20,8 +20,6 @@ O trabalho encontra-se disponível no arquivo TCC_Jordao.pdf
 
 O código em R utilizado está disponível no arquivo TCC.R
 
-Foi incluso também meu knit feito pelo Rstudio, disponível no arquivo TCC.html
-
 Os slides da apresentação estão no arquivo Pesquisa Exploratória sobre Operações de Crédito no Brasil.pptx
 
 Por fim, licença contida no arquivo LICENSE.md está definida em CC BY 4.0, no intuito de preservar a propriedade intelectual do trabalho, mas sem impedir que trabalhos futuros utilizem deste projeto para auxiliar suas descobertas, através de uma citação acadêmica.
